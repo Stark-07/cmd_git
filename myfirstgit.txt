@@ -1,1 +1,4 @@
 sohaib this side
+git add . 
+git commit -m "msg"
+git push
